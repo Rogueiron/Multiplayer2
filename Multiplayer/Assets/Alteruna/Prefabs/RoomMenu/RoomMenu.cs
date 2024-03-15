@@ -8,7 +8,8 @@ namespace Alteruna
 {
 	public class RoomMenu : CommunicationBridge
 	{
-		[SerializeField] private Text TitleText;
+        [SerializeField] private GameObject Panel;
+        [SerializeField] private Text TitleText;
 		[SerializeField] private GameObject LANEntryPrefab;
 		[SerializeField] private GameObject WANEntryPrefab;
 		[SerializeField] private GameObject ContentContainer;
@@ -54,13 +55,15 @@ namespace Alteruna
 				StartButton.onClick.AddListener(() =>
 				{
 					// for more control, use Multiplayer.CreateRoom
-					Multiplayer.JoinOnDemandRoom();
+					Panel.gameObject.SetActive(false);
+					Multiplayer.CreateRoom();
 					_refreshTime = RefreshInterval;
 				});
 
 				LeaveButton.onClick.AddListener(() =>
 				{
-					Multiplayer.CurrentRoom?.Leave();
+                    Panel.gameObject.SetActive(true);
+                    Multiplayer.CurrentRoom?.Leave();
 					_refreshTime = RefreshInterval;
 				});
 

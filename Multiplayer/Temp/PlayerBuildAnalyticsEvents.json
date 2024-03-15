@@ -3,14 +3,23 @@
     {
       "type": "playerBuildTimingData",
       "msg": {
-        "build_event_id": "26019757d0f62be41ac2ccfd306008d5",
-        "build_player": 8624,
-        "preprocess_player": 91,
-        "produce_player_script_assemblies": 2070,
-        "build_scripts_dlls": 1553,
-        "writing_asset_files": 2186,
-        "postprocess_built_player": 458,
-        "node_summary_table": []
+        "build_event_id": "63a328bbebe3603478b5bb6a680b6031",
+        "build_player": 15539,
+        "preprocess_player": 126,
+        "produce_player_script_assemblies": 4658,
+        "build_scripts_dlls": 1325,
+        "writing_asset_files": 2350,
+        "postprocess_built_player": 5124,
+        "node_summary_table": [
+          {
+            "name": "Csc",
+            "duration": 166
+          },
+          {
+            "name": "Csc",
+            "duration": 91
+          }
+        ]
       },
       "version": 1
     }
