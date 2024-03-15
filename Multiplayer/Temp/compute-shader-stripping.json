@@ -16,37 +16,37 @@
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: RowPassTi_256",
-                            "stripTimeMs": 3.8845
+                            "stripTimeMs": 0.0392
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: ColPassTi_256",
-                            "stripTimeMs": 0.0313
+                            "stripTimeMs": 0.0241
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: RowPassTi_128",
-                            "stripTimeMs": 0.027
+                            "stripTimeMs": 0.0236
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: ColPassTi_128",
-                            "stripTimeMs": 0.0234
+                            "stripTimeMs": 0.0236
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: RowPassTi_64",
-                            "stripTimeMs": 0.023200000000000003
+                            "stripTimeMs": 0.0234
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: ColPassTi_64",
-                            "stripTimeMs": 0.0233
+                            "stripTimeMs": 0.0241
                         }
                     ]
                 }
@@ -66,13 +66,13 @@
                             "inputVariants": 4,
                             "outputVariants": 4,
                             "variantName": "Kernel: KMainPhysical",
-                            "stripTimeMs": 0.10350000000000001
+                            "stripTimeMs": 0.060200000000000006
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 4,
                             "variantName": "Kernel: KMainManual",
-                            "stripTimeMs": 0.0548
+                            "stripTimeMs": 0.054400000000000007
                         }
                     ]
                 }
@@ -92,7 +92,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MainCS",
-                            "stripTimeMs": 0.0222
+                            "stripTimeMs": 0.026600000000000003
                         }
                     ]
                 }
@@ -112,7 +112,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: BakeCloudTexture",
-                            "stripTimeMs": 0.0339
+                            "stripTimeMs": 0.036500000000000008
                         }
                     ]
                 }
@@ -132,187 +132,187 @@
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Direct_Fptl",
-                            "stripTimeMs": 2.3005
+                            "stripTimeMs": 2.3771
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Direct_Fptl_DebugDisplay",
-                            "stripTimeMs": 2.3092
+                            "stripTimeMs": 2.3424
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant0",
-                            "stripTimeMs": 2.2635
+                            "stripTimeMs": 2.4103000000000005
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant1",
-                            "stripTimeMs": 2.2626
+                            "stripTimeMs": 2.3819
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant2",
-                            "stripTimeMs": 2.3926000000000005
+                            "stripTimeMs": 2.3558
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant3",
-                            "stripTimeMs": 2.3408
+                            "stripTimeMs": 2.3440000000000005
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant4",
-                            "stripTimeMs": 2.3272
+                            "stripTimeMs": 2.3919
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant5",
-                            "stripTimeMs": 2.321
+                            "stripTimeMs": 2.3393
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant6",
-                            "stripTimeMs": 2.3218
+                            "stripTimeMs": 2.3474
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant7",
-                            "stripTimeMs": 2.3172
+                            "stripTimeMs": 2.3364000000000004
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant8",
-                            "stripTimeMs": 2.3172
+                            "stripTimeMs": 2.3821000000000005
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant9",
-                            "stripTimeMs": 2.3161
+                            "stripTimeMs": 2.3314
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant10",
-                            "stripTimeMs": 2.3369
+                            "stripTimeMs": 2.3439
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant11",
-                            "stripTimeMs": 2.3205
+                            "stripTimeMs": 2.3292
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant12",
-                            "stripTimeMs": 2.579
+                            "stripTimeMs": 2.3612
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant13",
-                            "stripTimeMs": 2.3326000000000004
+                            "stripTimeMs": 2.333
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant14",
-                            "stripTimeMs": 2.3266
+                            "stripTimeMs": 2.335
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant15",
-                            "stripTimeMs": 2.5281000000000004
+                            "stripTimeMs": 2.3267
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant16",
-                            "stripTimeMs": 2.3269
+                            "stripTimeMs": 2.3449
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant17",
-                            "stripTimeMs": 2.3294
+                            "stripTimeMs": 2.3329
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant18",
-                            "stripTimeMs": 2.3565
+                            "stripTimeMs": 2.3319
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant19",
-                            "stripTimeMs": 2.3249
+                            "stripTimeMs": 2.3267
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant20",
-                            "stripTimeMs": 2.3204000000000004
+                            "stripTimeMs": 2.3284000000000004
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant21",
-                            "stripTimeMs": 2.3324000000000004
+                            "stripTimeMs": 2.3331
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant22",
-                            "stripTimeMs": 2.4023000000000005
+                            "stripTimeMs": 2.3295
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant23",
-                            "stripTimeMs": 2.3246
+                            "stripTimeMs": 2.3480000000000005
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant24",
-                            "stripTimeMs": 2.3316
+                            "stripTimeMs": 2.3535
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant25",
-                            "stripTimeMs": 2.3274
+                            "stripTimeMs": 2.3339000000000005
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant26",
-                            "stripTimeMs": 2.3297000000000005
+                            "stripTimeMs": 2.3283
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant27",
-                            "stripTimeMs": 2.3347
+                            "stripTimeMs": 2.3296
                         },
                         {
                             "inputVariants": 72,
                             "outputVariants": 6,
                             "variantName": "Kernel: Deferred_Indirect_Fptl_Variant28",
-                            "stripTimeMs": 2.3277
+                            "stripTimeMs": 2.3240000000000005
                         }
                     ]
                 }
@@ -332,61 +332,61 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: TileLightListGen_NoDepthRT",
-                            "stripTimeMs": 0.0415
+                            "stripTimeMs": 0.038200000000000008
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: TileLightListGen_DepthRT",
-                            "stripTimeMs": 0.0183
+                            "stripTimeMs": 0.0182
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: TileLightListGen_DepthRT_MSAA",
-                            "stripTimeMs": 0.020800000000000004
+                            "stripTimeMs": 0.0171
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: TileLightListGen_NoDepthRT_SrcBigTile",
-                            "stripTimeMs": 0.0165
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: TileLightListGen_DepthRT_SrcBigTile",
-                            "stripTimeMs": 0.016300000000000003
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: TileLightListGen_DepthRT_MSAA_SrcBigTile",
-                            "stripTimeMs": 0.0165
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: TileLightListGen_DepthRT_Oblique",
                             "stripTimeMs": 0.0164
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
+                            "variantName": "Kernel: TileLightListGen_DepthRT_SrcBigTile",
+                            "stripTimeMs": 0.0164
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: TileLightListGen_DepthRT_MSAA_SrcBigTile",
+                            "stripTimeMs": 0.0164
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: TileLightListGen_DepthRT_Oblique",
+                            "stripTimeMs": 0.0177
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
                             "variantName": "Kernel: TileLightListGen_DepthRT_MSAA_Oblique",
-                            "stripTimeMs": 0.0162
+                            "stripTimeMs": 0.016300000000000003
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: TileLightListGen_DepthRT_SrcBigTile_Oblique",
-                            "stripTimeMs": 0.0162
+                            "stripTimeMs": 0.0164
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: TileLightListGen_DepthRT_MSAA_SrcBigTile_Oblique",
-                            "stripTimeMs": 0.0175
+                            "stripTimeMs": 0.0164
                         }
                     ]
                 }
@@ -406,7 +406,7 @@
                             "inputVariants": 4,
                             "outputVariants": 4,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0956
+                            "stripTimeMs": 0.07060000000000001
                         }
                     ]
                 }
@@ -426,13 +426,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0224
+                            "stripTimeMs": 0.020900000000000003
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KDownsample",
-                            "stripTimeMs": 0.0175
+                            "stripTimeMs": 0.020200000000000004
                         }
                     ]
                 }
@@ -452,7 +452,7 @@
                             "inputVariants": 4,
                             "outputVariants": 2,
                             "variantName": "Kernel: FXAA",
-                            "stripTimeMs": 0.12090000000000001
+                            "stripTimeMs": 0.1149
                         }
                     ]
                 }
@@ -472,7 +472,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0362
+                            "stripTimeMs": 0.0344
                         }
                     ]
                 }
@@ -492,7 +492,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0207
+                            "stripTimeMs": 0.020300000000000003
                         }
                     ]
                 }
@@ -512,7 +512,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ClearAtomic",
-                            "stripTimeMs": 0.020300000000000003
+                            "stripTimeMs": 0.02
                         }
                     ]
                 }
@@ -532,7 +532,7 @@
                             "inputVariants": 8,
                             "outputVariants": 8,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.11370000000000001
+                            "stripTimeMs": 0.11510000000000001
                         }
                     ]
                 }
@@ -552,13 +552,13 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: KHistogramGen",
-                            "stripTimeMs": 0.0347
+                            "stripTimeMs": 0.035300000000000008
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: KHistogramReduce",
-                            "stripTimeMs": 0.0292
+                            "stripTimeMs": 0.0297
                         }
                     ]
                 }
@@ -578,13 +578,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: CSVFXCopyBuffer",
-                            "stripTimeMs": 0.0221
+                            "stripTimeMs": 0.0207
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: CSVFXCopyStructBuffer",
-                            "stripTimeMs": 0.0175
+                            "stripTimeMs": 0.017
                         },
                         {
                             "inputVariants": 1,
@@ -596,19 +596,19 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: CSVFXZeroInitBuffer",
-                            "stripTimeMs": 0.0162
+                            "stripTimeMs": 0.0171
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: CSVFXBatchCopyCountUint",
-                            "stripTimeMs": 0.0196
+                            "stripTimeMs": 0.0161
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: CSVFXBatchCopyCountKvp",
-                            "stripTimeMs": 0.0162
+                            "stripTimeMs": 0.016
                         },
                         {
                             "inputVariants": 1,
@@ -634,7 +634,7 @@
                             "inputVariants": 4,
                             "outputVariants": 4,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0648
+                            "stripTimeMs": 0.0641
                         }
                     ]
                 }
@@ -654,7 +654,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ComputeVolumetricMaterialRenderingParameters",
-                            "stripTimeMs": 0.0221
+                            "stripTimeMs": 0.0212
                         }
                     ]
                 }
@@ -674,7 +674,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: MotionBlurCS",
-                            "stripTimeMs": 0.0361
+                            "stripTimeMs": 0.0386
                         }
                     ]
                 }
@@ -694,7 +694,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: SpatialDenoise",
-                            "stripTimeMs": 0.0349
+                            "stripTimeMs": 0.0337
                         }
                     ]
                 }
@@ -714,7 +714,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0347
+                            "stripTimeMs": 0.0358
                         }
                     ]
                 }
@@ -734,7 +734,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: TemporalDenoise",
-                            "stripTimeMs": 0.034
+                            "stripTimeMs": 0.0368
                         }
                     ]
                 }
@@ -754,13 +754,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0213
+                            "stripTimeMs": 0.020300000000000003
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMainMSAA",
-                            "stripTimeMs": 0.017
+                            "stripTimeMs": 0.0176
                         }
                     ]
                 }
@@ -780,7 +780,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: TileGenPass",
-                            "stripTimeMs": 0.0333
+                            "stripTimeMs": 0.0342
                         }
                     ]
                 }
@@ -800,7 +800,7 @@
                             "inputVariants": 24,
                             "outputVariants": 12,
                             "variantName": "Kernel: KBuild",
-                            "stripTimeMs": 0.6178
+                            "stripTimeMs": 0.6202000000000001
                         }
                     ]
                 }
@@ -820,7 +820,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: KMainPreCombineFar",
-                            "stripTimeMs": 0.0422
+                            "stripTimeMs": 0.0367
                         }
                     ]
                 }
@@ -840,7 +840,7 @@
                             "inputVariants": 2,
                             "outputVariants": 1,
                             "variantName": "Kernel: DeferredContactShadow",
-                            "stripTimeMs": 0.0661
+                            "stripTimeMs": 0.060500000000000008
                         }
                     ]
                 }
@@ -860,7 +860,7 @@
                             "inputVariants": 16,
                             "outputVariants": 16,
                             "variantName": "Kernel: BakeCloudShadows",
-                            "stripTimeMs": 0.2141
+                            "stripTimeMs": 0.2134
                         }
                     ]
                 }
@@ -880,13 +880,13 @@
                             "inputVariants": 8,
                             "outputVariants": 8,
                             "variantName": "Kernel: KMainNear",
-                            "stripTimeMs": 0.12490000000000001
+                            "stripTimeMs": 0.11520000000000001
                         },
                         {
                             "inputVariants": 8,
                             "outputVariants": 8,
                             "variantName": "Kernel: KMainFar",
-                            "stripTimeMs": 0.1076
+                            "stripTimeMs": 0.108
                         }
                     ]
                 }
@@ -906,7 +906,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0357
+                            "stripTimeMs": 0.035300000000000008
                         }
                     ]
                 }
@@ -932,7 +932,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: PreIntegrateAzimuthalScattering",
-                            "stripTimeMs": 0.0171
+                            "stripTimeMs": 0.0172
                         }
                     ]
                 }
@@ -952,7 +952,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0206
+                            "stripTimeMs": 0.020200000000000004
                         }
                     ]
                 }
@@ -972,13 +972,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ComputeMomentShadows",
-                            "stripTimeMs": 0.0207
+                            "stripTimeMs": 0.020200000000000004
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MomentSummedAreaTableHorizontal",
-                            "stripTimeMs": 0.017
+                            "stripTimeMs": 0.016900000000000003
                         },
                         {
                             "inputVariants": 1,
@@ -1004,7 +1004,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: BuildIndirect",
-                            "stripTimeMs": 0.0342
+                            "stripTimeMs": 0.033800000000000007
                         }
                     ]
                 }
@@ -1024,7 +1024,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KHistogramGen",
-                            "stripTimeMs": 0.0205
+                            "stripTimeMs": 0.0238
                         }
                     ]
                 }
@@ -1050,7 +1050,7 @@
                             "inputVariants": 2,
                             "outputVariants": 1,
                             "variantName": "Kernel: KInitialize",
-                            "stripTimeMs": 0.059500000000000007
+                            "stripTimeMs": 0.064
                         }
                     ]
                 }
@@ -1070,7 +1070,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0335
+                            "stripTimeMs": 0.033800000000000007
                         }
                     ]
                 }
@@ -1090,7 +1090,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: TileNeighbourhood",
-                            "stripTimeMs": 0.034
+                            "stripTimeMs": 0.035
                         }
                     ]
                 }
@@ -1110,7 +1110,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BigTileLightListGen",
-                            "stripTimeMs": 0.020900000000000003
+                            "stripTimeMs": 0.0204
                         }
                     ]
                 }
@@ -1130,7 +1130,7 @@
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: KWaveformGather",
-                            "stripTimeMs": 0.021500000000000003
+                            "stripTimeMs": 0.022600000000000003
                         },
                         {
                             "inputVariants": 1,
@@ -1156,7 +1156,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KDepthDownsample8DualUav",
-                            "stripTimeMs": 0.0193
+                            "stripTimeMs": 0.020900000000000003
                         }
                     ]
                 }
@@ -1176,7 +1176,7 @@
                             "inputVariants": 8,
                             "outputVariants": 8,
                             "variantName": "Kernel: TileLightListGen",
-                            "stripTimeMs": 0.1095
+                            "stripTimeMs": 0.1102
                         }
                     ]
                 }
@@ -1196,55 +1196,55 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN",
-                            "stripTimeMs": 0.023700000000000004
+                            "stripTimeMs": 0.031900000000000008
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_MSAA_2",
-                            "stripTimeMs": 0.0171
+                            "stripTimeMs": 0.0181
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_MSAA_4",
-                            "stripTimeMs": 0.0166
+                            "stripTimeMs": 0.0176
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_MSAA_8",
-                            "stripTimeMs": 0.0166
+                            "stripTimeMs": 0.016300000000000003
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_MSAA_2_RESOLVE",
-                            "stripTimeMs": 0.0204
+                            "stripTimeMs": 0.0164
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_MSAA_4_RESOLVE",
-                            "stripTimeMs": 0.018600000000000003
+                            "stripTimeMs": 0.016300000000000003
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_MSAA_8_RESOLVE",
-                            "stripTimeMs": 0.0175
+                            "stripTimeMs": 0.0162
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_MSAA_2_RESOLVE_ONLY",
-                            "stripTimeMs": 0.0161
+                            "stripTimeMs": 0.0167
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_MSAA_4_RESOLVE_ONLY",
-                            "stripTimeMs": 0.016
+                            "stripTimeMs": 0.0162
                         },
                         {
                             "inputVariants": 1,
@@ -1270,7 +1270,7 @@
                             "inputVariants": 4,
                             "outputVariants": 4,
                             "variantName": "Kernel: GTAOMain",
-                            "stripTimeMs": 0.0609
+                            "stripTimeMs": 0.0626
                         }
                     ]
                 }
@@ -1290,7 +1290,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BilateralUpSampleColor",
-                            "stripTimeMs": 0.020800000000000004
+                            "stripTimeMs": 0.0213
                         }
                     ]
                 }
@@ -1310,127 +1310,127 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: InBucketSum",
-                            "stripTimeMs": 0.0217
+                            "stripTimeMs": 0.0213
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BlockSums",
-                            "stripTimeMs": 0.0175
+                            "stripTimeMs": 0.016900000000000003
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: FinalSum",
-                            "stripTimeMs": 0.016900000000000003
+                            "stripTimeMs": 0.0165
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ToTextureNormalized",
-                            "stripTimeMs": 0.0166
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: CopyTextures",
-                            "stripTimeMs": 0.0166
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: JFA",
-                            "stripTimeMs": 0.016900000000000003
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: DistanceTransform",
-                            "stripTimeMs": 0.0165
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: CopyBuffers",
-                            "stripTimeMs": 0.0165
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: GenerateRayMapLocal",
-                            "stripTimeMs": 0.0164
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: RayMapScanX",
-                            "stripTimeMs": 0.020200000000000004
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: RayMapScanY",
-                            "stripTimeMs": 0.0166
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: RayMapScanZ",
-                            "stripTimeMs": 0.016300000000000003
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: SignPass6Rays",
-                            "stripTimeMs": 0.0165
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: SignPassNeighbors",
-                            "stripTimeMs": 0.0164
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: ToBlockSumBuffer",
-                            "stripTimeMs": 0.0164
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: ClearTexturesAndBuffers",
                             "stripTimeMs": 0.016800000000000004
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
-                            "variantName": "Kernel: CopyToBuffer",
+                            "variantName": "Kernel: CopyTextures",
                             "stripTimeMs": 0.016300000000000003
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: JFA",
+                            "stripTimeMs": 0.016300000000000003
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: DistanceTransform",
+                            "stripTimeMs": 0.0181
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: CopyBuffers",
+                            "stripTimeMs": 0.0161
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: GenerateRayMapLocal",
+                            "stripTimeMs": 0.0172
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: RayMapScanX",
+                            "stripTimeMs": 0.0162
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: RayMapScanY",
+                            "stripTimeMs": 0.016
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: RayMapScanZ",
+                            "stripTimeMs": 0.0162
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: SignPass6Rays",
+                            "stripTimeMs": 0.0162
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: SignPassNeighbors",
+                            "stripTimeMs": 0.0166
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: ToBlockSumBuffer",
+                            "stripTimeMs": 0.0161
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: ClearTexturesAndBuffers",
+                            "stripTimeMs": 0.0162
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: CopyToBuffer",
+                            "stripTimeMs": 0.0159
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: GenerateTrianglesUV",
-                            "stripTimeMs": 0.016300000000000003
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: ConservativeRasterization",
-                            "stripTimeMs": 0.016300000000000003
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: ChooseDirectionTriangleOnly",
                             "stripTimeMs": 0.0165
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
+                            "variantName": "Kernel: ConservativeRasterization",
+                            "stripTimeMs": 0.0162
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Kernel: ChooseDirectionTriangleOnly",
+                            "stripTimeMs": 0.0171
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
                             "variantName": "Kernel: SurfaceClosing",
-                            "stripTimeMs": 0.0166
+                            "stripTimeMs": 0.0162
                         }
                     ]
                 }
@@ -1450,7 +1450,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KClear",
-                            "stripTimeMs": 0.024300000000000003
+                            "stripTimeMs": 0.0313
                         }
                     ]
                 }
@@ -1470,13 +1470,13 @@
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: KVectorscopeGather",
-                            "stripTimeMs": 0.024200000000000004
+                            "stripTimeMs": 0.026000000000000004
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: KVectorscopeClear",
-                            "stripTimeMs": 0.020300000000000003
+                            "stripTimeMs": 0.02
                         }
                     ]
                 }
@@ -1496,7 +1496,7 @@
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: EvaluateCloudMap",
-                            "stripTimeMs": 0.031100000000000004
+                            "stripTimeMs": 0.0315
                         }
                     ]
                 }
@@ -1516,25 +1516,25 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: AmbientProbeConvolutionDiffuse",
-                            "stripTimeMs": 0.0195
+                            "stripTimeMs": 0.021
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: AmbientProbeConvolutionVolumetric",
-                            "stripTimeMs": 0.0177
+                            "stripTimeMs": 0.017400000000000004
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: AmbientProbeConvolutionDiffuseVolumetric",
-                            "stripTimeMs": 0.0162
+                            "stripTimeMs": 0.0166
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: AmbientProbeConvolutionClouds",
-                            "stripTimeMs": 0.016300000000000003
+                            "stripTimeMs": 0.0167
                         }
                     ]
                 }
@@ -1554,19 +1554,19 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_1",
-                            "stripTimeMs": 0.0213
+                            "stripTimeMs": 0.029400000000000004
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_S",
-                            "stripTimeMs": 0.016800000000000004
+                            "stripTimeMs": 0.0183
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_M",
-                            "stripTimeMs": 0.0167
+                            "stripTimeMs": 0.0173
                         },
                         {
                             "inputVariants": 1,
@@ -1592,7 +1592,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: main",
-                            "stripTimeMs": 0.0205
+                            "stripTimeMs": 0.0221
                         }
                     ]
                 }
@@ -1612,61 +1612,61 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: ValidateHistory",
-                            "stripTimeMs": 0.0339
+                            "stripTimeMs": 0.036000000000000007
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: TemporalAccumulationSingle",
-                            "stripTimeMs": 0.029900000000000004
+                            "stripTimeMs": 0.031400000000000007
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: TemporalAccumulationSingleArray",
-                            "stripTimeMs": 0.029300000000000004
+                            "stripTimeMs": 0.029500000000000003
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: TemporalAccumulationColor",
-                            "stripTimeMs": 0.028800000000000004
+                            "stripTimeMs": 0.0332
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: TemporalAccumulationColorArray",
-                            "stripTimeMs": 0.0286
+                            "stripTimeMs": 0.0298
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: CopyHistory",
-                            "stripTimeMs": 0.029300000000000004
+                            "stripTimeMs": 0.029400000000000004
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: BlendHistorySingleArray",
-                            "stripTimeMs": 0.030500000000000004
+                            "stripTimeMs": 0.0292
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: BlendHistorySingleArrayNoValidity",
-                            "stripTimeMs": 0.028800000000000004
+                            "stripTimeMs": 0.029300000000000004
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: BlendHistoryColorArray",
-                            "stripTimeMs": 0.0287
+                            "stripTimeMs": 0.029900000000000004
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: OutputHistoryArray",
-                            "stripTimeMs": 0.0296
+                            "stripTimeMs": 0.029300000000000004
                         }
                     ]
                 }
@@ -1686,7 +1686,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ClearList",
-                            "stripTimeMs": 0.0217
+                            "stripTimeMs": 0.0274
                         }
                     ]
                 }
@@ -1706,13 +1706,13 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: KMainCoCPhysical",
-                            "stripTimeMs": 0.0337
+                            "stripTimeMs": 0.0357
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: KMainCoCManual",
-                            "stripTimeMs": 0.029400000000000004
+                            "stripTimeMs": 0.029500000000000003
                         }
                     ]
                 }
@@ -1732,7 +1732,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0206
+                            "stripTimeMs": 0.021400000000000004
                         }
                     ]
                 }
@@ -1752,7 +1752,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ComputeGgxIblSampleData",
-                            "stripTimeMs": 0.020300000000000003
+                            "stripTimeMs": 0.0212
                         }
                     ]
                 }
@@ -1772,13 +1772,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KParametricBlurKernel",
-                            "stripTimeMs": 0.0206
+                            "stripTimeMs": 0.020800000000000004
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KParametricFloodfillKernel",
-                            "stripTimeMs": 0.016900000000000003
+                            "stripTimeMs": 0.0171
                         }
                     ]
                 }
@@ -1798,7 +1798,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: GTAODenoise_CopyHistory",
-                            "stripTimeMs": 0.020300000000000003
+                            "stripTimeMs": 0.0213
                         }
                     ]
                 }
@@ -1818,7 +1818,7 @@
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: clearMain",
-                            "stripTimeMs": 0.019700000000000003
+                            "stripTimeMs": 0.0207
                         }
                     ]
                 }
@@ -1838,13 +1838,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: Copy",
-                            "stripTimeMs": 0.0195
+                            "stripTimeMs": 0.0198
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: GenerateMipMap",
-                            "stripTimeMs": 0.0176
+                            "stripTimeMs": 0.0171
                         }
                     ]
                 }
@@ -1864,7 +1864,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.036000000000000007
+                            "stripTimeMs": 0.0407
                         }
                     ]
                 }
@@ -1884,7 +1884,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: CSVFXIndirectArgs",
-                            "stripTimeMs": 0.0218
+                            "stripTimeMs": 0.020200000000000004
                         }
                     ]
                 }
@@ -1904,7 +1904,7 @@
                             "inputVariants": 4,
                             "outputVariants": 4,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.059500000000000007
+                            "stripTimeMs": 0.06470000000000001
                         }
                     ]
                 }
@@ -1924,7 +1924,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: UpdateParticleStrip",
-                            "stripTimeMs": 0.0204
+                            "stripTimeMs": 0.0206
                         }
                     ]
                 }
@@ -1944,25 +1944,25 @@
                             "inputVariants": 3,
                             "outputVariants": 2,
                             "variantName": "Kernel: TraceGlobalIllumination",
-                            "stripTimeMs": 0.0727
+                            "stripTimeMs": 0.06910000000000001
                         },
                         {
                             "inputVariants": 3,
                             "outputVariants": 2,
                             "variantName": "Kernel: TraceGlobalIlluminationHalf",
-                            "stripTimeMs": 0.0634
+                            "stripTimeMs": 0.0639
                         },
                         {
                             "inputVariants": 3,
                             "outputVariants": 2,
                             "variantName": "Kernel: ReprojectGlobalIllumination",
-                            "stripTimeMs": 0.06380000000000001
+                            "stripTimeMs": 0.0634
                         },
                         {
                             "inputVariants": 3,
                             "outputVariants": 2,
                             "variantName": "Kernel: ReprojectGlobalIlluminationHalf",
-                            "stripTimeMs": 0.064
+                            "stripTimeMs": 0.0629
                         }
                     ]
                 }
@@ -1982,31 +1982,31 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KFixedExposure",
-                            "stripTimeMs": 0.0251
+                            "stripTimeMs": 0.022000000000000003
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KManualCameraExposure",
-                            "stripTimeMs": 0.0173
+                            "stripTimeMs": 0.0171
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KPrePass",
-                            "stripTimeMs": 0.0175
-                        },
-                        {
-                            "inputVariants": 1,
-                            "outputVariants": 1,
-                            "variantName": "Kernel: KReduction",
                             "stripTimeMs": 0.0164
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
+                            "variantName": "Kernel: KReduction",
+                            "stripTimeMs": 0.0165
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
                             "variantName": "Kernel: KReset",
-                            "stripTimeMs": 0.016300000000000003
+                            "stripTimeMs": 0.0171
                         }
                     ]
                 }
@@ -2026,13 +2026,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BlurUpsample",
-                            "stripTimeMs": 0.0207
+                            "stripTimeMs": 0.020900000000000003
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BilateralUpsampling",
-                            "stripTimeMs": 0.016800000000000004
+                            "stripTimeMs": 0.017
                         },
                         {
                             "inputVariants": 1,
@@ -2044,7 +2044,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: Blur",
-                            "stripTimeMs": 0.0172
+                            "stripTimeMs": 0.016300000000000003
                         },
                         {
                             "inputVariants": 1,
@@ -2070,19 +2070,19 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: FilterPlanarReflection",
-                            "stripTimeMs": 0.020900000000000003
+                            "stripTimeMs": 0.0206
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: DownScale",
-                            "stripTimeMs": 0.016800000000000004
+                            "stripTimeMs": 0.021400000000000004
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: DepthConversion",
-                            "stripTimeMs": 0.0164
+                            "stripTimeMs": 0.0166
                         }
                     ]
                 }
@@ -2102,7 +2102,7 @@
                             "inputVariants": 2,
                             "outputVariants": 1,
                             "variantName": "Kernel: BlendScenarios",
-                            "stripTimeMs": 0.0596
+                            "stripTimeMs": 0.0594
                         }
                     ]
                 }
@@ -2122,7 +2122,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KSampleCopy4_1_x_8",
-                            "stripTimeMs": 0.0199
+                            "stripTimeMs": 0.020300000000000003
                         },
                         {
                             "inputVariants": 1,
@@ -2148,7 +2148,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KEncodeFastCubemapMip",
-                            "stripTimeMs": 0.0201
+                            "stripTimeMs": 0.0204
                         }
                     ]
                 }
@@ -2168,7 +2168,7 @@
                             "inputVariants": 2,
                             "outputVariants": 1,
                             "variantName": "Kernel: SubsurfaceScattering",
-                            "stripTimeMs": 0.0568
+                            "stripTimeMs": 0.0584
                         }
                     ]
                 }
@@ -2188,7 +2188,7 @@
                             "inputVariants": 96,
                             "outputVariants": 64,
                             "variantName": "Kernel: VolumetricLighting",
-                            "stripTimeMs": 1.9011
+                            "stripTimeMs": 1.8966
                         }
                     ]
                 }
@@ -2208,7 +2208,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: GeneratePointDistribution",
-                            "stripTimeMs": 0.059300000000000008
+                            "stripTimeMs": 0.056100000000000007
                         },
                         {
                             "inputVariants": 2,
@@ -2220,19 +2220,19 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: BilateralFilterColor",
-                            "stripTimeMs": 0.029300000000000004
+                            "stripTimeMs": 0.0298
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: GatherSingle",
-                            "stripTimeMs": 0.029
+                            "stripTimeMs": 0.0302
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: GatherColor",
-                            "stripTimeMs": 0.028900000000000003
+                            "stripTimeMs": 0.030600000000000003
                         }
                     ]
                 }
@@ -2252,13 +2252,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ComputeConditionalDensities",
-                            "stripTimeMs": 0.022000000000000003
+                            "stripTimeMs": 0.0262
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ComputeMarginalRowDensities",
-                            "stripTimeMs": 0.0187
+                            "stripTimeMs": 0.0173
                         }
                     ]
                 }
@@ -2278,7 +2278,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: VolumeVoxelization",
-                            "stripTimeMs": 0.020800000000000004
+                            "stripTimeMs": 0.020900000000000003
                         }
                     ]
                 }
@@ -2298,7 +2298,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.021
+                            "stripTimeMs": 0.020900000000000003
                         }
                     ]
                 }
@@ -2318,7 +2318,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMainCoCMinMax",
-                            "stripTimeMs": 0.020300000000000003
+                            "stripTimeMs": 0.0205
                         }
                     ]
                 }
@@ -2338,7 +2338,7 @@
                             "inputVariants": 24,
                             "outputVariants": 24,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.3257
+                            "stripTimeMs": 0.3267
                         }
                     ]
                 }
@@ -2358,7 +2358,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: TileMerge",
-                            "stripTimeMs": 0.022600000000000003
+                            "stripTimeMs": 0.022000000000000003
                         }
                     ]
                 }
@@ -2378,13 +2378,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ClearUIntTexture",
-                            "stripTimeMs": 0.0206
+                            "stripTimeMs": 0.020800000000000004
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ClearUIntTextureArray",
-                            "stripTimeMs": 0.0172
+                            "stripTimeMs": 0.0171
                         }
                     ]
                 }
@@ -2404,43 +2404,43 @@
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsTracing",
-                            "stripTimeMs": 0.127
+                            "stripTimeMs": 0.1277
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsReprojection",
-                            "stripTimeMs": 0.12430000000000001
+                            "stripTimeMs": 0.126
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateNoWorldSpeedRejectionBoth",
-                            "stripTimeMs": 0.12040000000000001
+                            "stripTimeMs": 0.12100000000000001
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateNoWorldSpeedRejectionSourceOnly",
-                            "stripTimeMs": 0.1213
+                            "stripTimeMs": 0.1245
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateNoWorldSpeedRejectionTargetOnly",
-                            "stripTimeMs": 0.12430000000000001
+                            "stripTimeMs": 0.1211
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateHardThresholdSpeedRejectionBoth",
-                            "stripTimeMs": 0.1206
+                            "stripTimeMs": 0.12480000000000001
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateHardThresholdSpeedRejectionSourceOnly",
-                            "stripTimeMs": 0.1263
+                            "stripTimeMs": 0.12340000000000001
                         },
                         {
                             "inputVariants": 4,
@@ -2452,73 +2452,73 @@
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateSmoothSpeedRejectionBoth",
-                            "stripTimeMs": 0.12390000000000001
+                            "stripTimeMs": 0.1246
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateSmoothSpeedRejectionSourceOnly",
-                            "stripTimeMs": 0.1206
+                            "stripTimeMs": 0.1212
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateSmoothSpeedRejectionTargetOnly",
-                            "stripTimeMs": 0.124
+                            "stripTimeMs": 0.125
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateNoWorldSpeedRejectionBothDebug",
-                            "stripTimeMs": 0.12050000000000001
+                            "stripTimeMs": 0.12190000000000001
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateNoWorldSpeedRejectionSourceOnlyDebug",
-                            "stripTimeMs": 0.1211
+                            "stripTimeMs": 0.1247
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateNoWorldSpeedRejectionTargetOnlyDebug",
-                            "stripTimeMs": 0.12100000000000001
+                            "stripTimeMs": 0.1213
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateHardThresholdSpeedRejectionBothDebug",
-                            "stripTimeMs": 0.1199
+                            "stripTimeMs": 0.12480000000000001
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateHardThresholdSpeedRejectionSourceOnlyDebug",
-                            "stripTimeMs": 0.12490000000000001
-                        },
-                        {
-                            "inputVariants": 4,
-                            "outputVariants": 0,
-                            "variantName": "Kernel: ScreenSpaceReflectionsAccumulateHardThresholdSpeedRejectionTargetOnlyDebug",
                             "stripTimeMs": 0.1206
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
+                            "variantName": "Kernel: ScreenSpaceReflectionsAccumulateHardThresholdSpeedRejectionTargetOnlyDebug",
+                            "stripTimeMs": 0.1211
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateSmoothSpeedRejectionBothDebug",
-                            "stripTimeMs": 0.1254
+                            "stripTimeMs": 0.40690000000000006
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateSmoothSpeedRejectionSourceOnlyDebug",
-                            "stripTimeMs": 0.1207
+                            "stripTimeMs": 0.1262
                         },
                         {
                             "inputVariants": 4,
                             "outputVariants": 0,
                             "variantName": "Kernel: ScreenSpaceReflectionsAccumulateSmoothSpeedRejectionTargetOnlyDebug",
-                            "stripTimeMs": 0.1233
+                            "stripTimeMs": 0.1272
                         }
                     ]
                 }
@@ -2538,31 +2538,31 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMainColor",
-                            "stripTimeMs": 0.02
+                            "stripTimeMs": 0.0257
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMainColorAlpha",
-                            "stripTimeMs": 0.0166
+                            "stripTimeMs": 0.016900000000000003
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMainCoC",
-                            "stripTimeMs": 0.0162
+                            "stripTimeMs": 0.0224
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMainColorCopy",
-                            "stripTimeMs": 0.0162
+                            "stripTimeMs": 0.0167
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KMainColorCopyAlpha",
-                            "stripTimeMs": 0.016
+                            "stripTimeMs": 0.017
                         }
                     ]
                 }
@@ -2582,7 +2582,7 @@
                             "inputVariants": 4,
                             "outputVariants": 4,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0645
+                            "stripTimeMs": 0.075
                         }
                     ]
                 }
@@ -2602,19 +2602,19 @@
                             "inputVariants": 6,
                             "outputVariants": 0,
                             "variantName": "Kernel: WaterPrepareSSR",
-                            "stripTimeMs": 0.1444
+                            "stripTimeMs": 0.1499
                         },
                         {
                             "inputVariants": 6,
                             "outputVariants": 0,
                             "variantName": "Kernel: WaterDeferredLighting",
-                            "stripTimeMs": 0.1346
+                            "stripTimeMs": 0.13820000000000003
                         },
                         {
                             "inputVariants": 6,
                             "outputVariants": 0,
                             "variantName": "Kernel: UnderWater",
-                            "stripTimeMs": 0.14020000000000003
+                            "stripTimeMs": 0.1366
                         }
                     ]
                 }
@@ -2634,19 +2634,19 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: ComputeMaxZ",
-                            "stripTimeMs": 0.0327
+                            "stripTimeMs": 0.0369
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: ComputeFinalMask",
-                            "stripTimeMs": 0.0291
+                            "stripTimeMs": 0.0344
                         },
                         {
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: DilateMask",
-                            "stripTimeMs": 0.028900000000000003
+                            "stripTimeMs": 0.0308
                         }
                     ]
                 }
@@ -2666,25 +2666,25 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BitonicSort128",
-                            "stripTimeMs": 0.020300000000000003
+                            "stripTimeMs": 0.0229
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BitonicSort1024",
-                            "stripTimeMs": 0.0166
+                            "stripTimeMs": 0.0173
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BitonicSort1024_128",
-                            "stripTimeMs": 0.019200000000000003
+                            "stripTimeMs": 0.0165
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BitonicSort2048",
-                            "stripTimeMs": 0.0164
+                            "stripTimeMs": 0.0165
                         },
                         {
                             "inputVariants": 1,
@@ -2696,13 +2696,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BitonicSort4096",
-                            "stripTimeMs": 0.016300000000000003
+                            "stripTimeMs": 0.0164
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BitonicSort4096_128",
-                            "stripTimeMs": 0.0161
+                            "stripTimeMs": 0.0171
                         },
                         {
                             "inputVariants": 1,
@@ -2714,25 +2714,25 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BitonicPrePass4096_128",
-                            "stripTimeMs": 0.016
+                            "stripTimeMs": 0.0171
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: BitonicPrePass2048_128",
-                            "stripTimeMs": 0.0159
+                            "stripTimeMs": 0.0189
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MergePass",
-                            "stripTimeMs": 0.0159
+                            "stripTimeMs": 0.0165
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MergeFinalPass",
-                            "stripTimeMs": 0.016
+                            "stripTimeMs": 0.0161
                         }
                     ]
                 }
@@ -2752,13 +2752,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_1",
-                            "stripTimeMs": 0.027100000000000004
+                            "stripTimeMs": 0.0252
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: MAIN_S",
-                            "stripTimeMs": 0.0184
+                            "stripTimeMs": 0.0172
                         },
                         {
                             "inputVariants": 1,
@@ -2784,7 +2784,7 @@
                             "inputVariants": 4,
                             "outputVariants": 4,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.0637
+                            "stripTimeMs": 0.0704
                         }
                     ]
                 }
@@ -2804,7 +2804,7 @@
                             "inputVariants": 6,
                             "outputVariants": 6,
                             "variantName": "Kernel: MotionVecPreppingCS",
-                            "stripTimeMs": 0.08950000000000001
+                            "stripTimeMs": 0.09050000000000001
                         }
                     ]
                 }
@@ -2824,7 +2824,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: FilterVolumetricLighting",
-                            "stripTimeMs": 0.034800000000000008
+                            "stripTimeMs": 0.0354
                         }
                     ]
                 }
@@ -2844,7 +2844,7 @@
                             "inputVariants": 4,
                             "outputVariants": 2,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.11750000000000001
+                            "stripTimeMs": 0.116
                         }
                     ]
                 }
@@ -2864,7 +2864,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: KCIExyGen",
-                            "stripTimeMs": 0.021400000000000004
+                            "stripTimeMs": 0.0212
                         }
                     ]
                 }
@@ -2884,7 +2884,7 @@
                             "inputVariants": 128,
                             "outputVariants": 64,
                             "variantName": "Kernel: Uber",
-                            "stripTimeMs": 3.2422
+                            "stripTimeMs": 3.2471
                         }
                     ]
                 }
@@ -2904,7 +2904,7 @@
                             "inputVariants": 24,
                             "outputVariants": 24,
                             "variantName": "Kernel: KMain",
-                            "stripTimeMs": 0.3299
+                            "stripTimeMs": 0.32930000000000006
                         }
                     ]
                 }
@@ -2924,43 +2924,43 @@
                             "inputVariants": 3,
                             "outputVariants": 0,
                             "variantName": "Kernel: InitializePhillipsSpectrum",
-                            "stripTimeMs": 0.0649
+                            "stripTimeMs": 0.0666
                         },
                         {
                             "inputVariants": 3,
                             "outputVariants": 0,
                             "variantName": "Kernel: EvaluateDispersion",
-                            "stripTimeMs": 0.0614
+                            "stripTimeMs": 0.0632
                         },
                         {
                             "inputVariants": 3,
                             "outputVariants": 0,
                             "variantName": "Kernel: EvaluateNormalsFoam",
-                            "stripTimeMs": 0.0599
+                            "stripTimeMs": 0.0597
                         },
                         {
                             "inputVariants": 3,
                             "outputVariants": 0,
                             "variantName": "Kernel: CopyAdditionalData",
-                            "stripTimeMs": 0.0589
+                            "stripTimeMs": 0.059300000000000008
                         },
                         {
                             "inputVariants": 3,
                             "outputVariants": 0,
                             "variantName": "Kernel: FindVerticalDisplacements",
-                            "stripTimeMs": 0.0594
+                            "stripTimeMs": 0.0591
                         },
                         {
                             "inputVariants": 3,
                             "outputVariants": 0,
                             "variantName": "Kernel: PrepareCausticsGeometry",
-                            "stripTimeMs": 0.059000000000000007
+                            "stripTimeMs": 0.062400000000000007
                         },
                         {
                             "inputVariants": 3,
                             "outputVariants": 0,
                             "variantName": "Kernel: EvaluateInstanceData",
-                            "stripTimeMs": 0.059300000000000008
+                            "stripTimeMs": 0.0597
                         }
                     ]
                 }
@@ -2980,13 +2980,13 @@
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: LightVolumeGradient",
-                            "stripTimeMs": 0.016900000000000003
+                            "stripTimeMs": 0.016800000000000004
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 0,
                             "variantName": "Kernel: LightVolumeColors",
-                            "stripTimeMs": 0.0148
+                            "stripTimeMs": 0.0143
                         }
                     ]
                 }
@@ -3006,91 +3006,91 @@
                             "inputVariants": 8,
                             "outputVariants": 0,
                             "variantName": "Kernel: ConvertObliqueDepth",
-                            "stripTimeMs": 0.2031
+                            "stripTimeMs": 0.1995
                         },
                         {
                             "inputVariants": 8,
                             "outputVariants": 0,
                             "variantName": "Kernel: DownscaleDepth",
-                            "stripTimeMs": 0.1937
+                            "stripTimeMs": 0.19970000000000003
                         },
                         {
                             "inputVariants": 8,
                             "outputVariants": 0,
                             "variantName": "Kernel: RenderClouds",
-                            "stripTimeMs": 0.1976
+                            "stripTimeMs": 0.20020000000000003
                         },
                         {
                             "inputVariants": 8,
                             "outputVariants": 0,
                             "variantName": "Kernel: ReprojectClouds",
-                            "stripTimeMs": 0.19740000000000003
-                        },
-                        {
-                            "inputVariants": 8,
-                            "outputVariants": 0,
-                            "variantName": "Kernel: ReprojectCloudsRejection",
-                            "stripTimeMs": 0.1966
-                        },
-                        {
-                            "inputVariants": 8,
-                            "outputVariants": 0,
-                            "variantName": "Kernel: PreUpscaleClouds",
-                            "stripTimeMs": 0.1976
-                        },
-                        {
-                            "inputVariants": 8,
-                            "outputVariants": 0,
-                            "variantName": "Kernel: PreUpscaleCloudsSky",
-                            "stripTimeMs": 0.19770000000000002
-                        },
-                        {
-                            "inputVariants": 8,
-                            "outputVariants": 0,
-                            "variantName": "Kernel: UpscaleAndCombineClouds_ColorRW",
-                            "stripTimeMs": 0.1953
-                        },
-                        {
-                            "inputVariants": 8,
-                            "outputVariants": 0,
-                            "variantName": "Kernel: UpscaleAndCombineClouds_ColorCopy",
                             "stripTimeMs": 0.1951
                         },
                         {
                             "inputVariants": 8,
                             "outputVariants": 0,
+                            "variantName": "Kernel: ReprojectCloudsRejection",
+                            "stripTimeMs": 0.2029
+                        },
+                        {
+                            "inputVariants": 8,
+                            "outputVariants": 0,
+                            "variantName": "Kernel: PreUpscaleClouds",
+                            "stripTimeMs": 0.1975
+                        },
+                        {
+                            "inputVariants": 8,
+                            "outputVariants": 0,
+                            "variantName": "Kernel: PreUpscaleCloudsSky",
+                            "stripTimeMs": 0.1986
+                        },
+                        {
+                            "inputVariants": 8,
+                            "outputVariants": 0,
+                            "variantName": "Kernel: UpscaleAndCombineClouds_ColorRW",
+                            "stripTimeMs": 0.1983
+                        },
+                        {
+                            "inputVariants": 8,
+                            "outputVariants": 0,
+                            "variantName": "Kernel: UpscaleAndCombineClouds_ColorCopy",
+                            "stripTimeMs": 0.20170000000000003
+                        },
+                        {
+                            "inputVariants": 8,
+                            "outputVariants": 0,
                             "variantName": "Kernel: UpscaleAndCombineCloudsSky",
-                            "stripTimeMs": 0.1988
+                            "stripTimeMs": 0.1953
                         },
                         {
                             "inputVariants": 8,
                             "outputVariants": 0,
                             "variantName": "Kernel: CombineClouds_ColorRW",
-                            "stripTimeMs": 0.1971
+                            "stripTimeMs": 0.1961
                         },
                         {
                             "inputVariants": 8,
                             "outputVariants": 0,
                             "variantName": "Kernel: CombineClouds_ColorCopy",
-                            "stripTimeMs": 0.1991
+                            "stripTimeMs": 0.2071
                         },
                         {
                             "inputVariants": 8,
                             "outputVariants": 0,
                             "variantName": "Kernel: CombineCloudsSky",
-                            "stripTimeMs": 0.1985
+                            "stripTimeMs": 0.1981
                         },
                         {
                             "inputVariants": 8,
                             "outputVariants": 0,
                             "variantName": "Kernel: ComputeVolumetricCloudsShadow",
-                            "stripTimeMs": 0.19990000000000003
+                            "stripTimeMs": 0.19640000000000003
                         },
                         {
                             "inputVariants": 8,
                             "outputVariants": 0,
                             "variantName": "Kernel: FilterVolumetricCloudsShadow",
-                            "stripTimeMs": 0.19540000000000003
+                            "stripTimeMs": 0.1978
                         }
                     ]
                 }
@@ -3110,7 +3110,7 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ClearBuffer2DMain",
-                            "stripTimeMs": 0.020300000000000003
+                            "stripTimeMs": 0.0233
                         }
                     ]
                 }
@@ -3130,19 +3130,19 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ConvertAndBlur",
-                            "stripTimeMs": 0.0205
+                            "stripTimeMs": 0.0213
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: Blur",
-                            "stripTimeMs": 0.016800000000000004
+                            "stripTimeMs": 0.0173
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: CopyMoments",
-                            "stripTimeMs": 0.016300000000000003
+                            "stripTimeMs": 0.0166
                         }
                     ]
                 }
@@ -3162,7 +3162,7 @@
                             "inputVariants": 2,
                             "outputVariants": 2,
                             "variantName": "Kernel: MaterialFlagsGen",
-                            "stripTimeMs": 0.034
+                            "stripTimeMs": 0.035300000000000008
                         }
                     ]
                 }
@@ -3182,13 +3182,13 @@
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ClearDispatchIndirect",
-                            "stripTimeMs": 0.0206
+                            "stripTimeMs": 0.020300000000000003
                         },
                         {
                             "inputVariants": 1,
                             "outputVariants": 1,
                             "variantName": "Kernel: ClearDrawProceduralIndirect",
-                            "stripTimeMs": 0.0171
+                            "stripTimeMs": 0.017400000000000004
                         }
                     ]
                 }
