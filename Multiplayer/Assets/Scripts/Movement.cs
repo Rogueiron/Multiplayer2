@@ -40,7 +40,7 @@ public class Movement : MonoBehaviour
         {
             return;
         }
-
+        Cursor.lockState = CursorLockMode.Locked;
         playerCamera = Camera.main;
         playerCamera.transform.position = new Vector3(transform.position.x, transform.position.y + cameraYOffset, transform.position.z);
         playerCamera.transform.SetParent(transform);
