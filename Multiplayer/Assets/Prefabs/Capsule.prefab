@@ -127,8 +127,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2
   orientation: {fileID: 0}
-  groundDrag: 1
-  playerHeight: 1
+  groundDrag: 5
+  airDrag: 0
+  playerHeight: 2
   whatisGround:
     serializedVersion: 2
     m_Bits: 8
@@ -191,7 +192,7 @@ MonoBehaviour:
     NetLOD: 4
     Frequency: 120
   UseGlobalPosition: 0
-  refreshRate: 30
+  refreshRate: 0.00027777778
   SyncedAxes: 511
 --- !u!114 &4770607262405374917
 MonoBehaviour:

@@ -15,6 +15,7 @@ public class Movement : MonoBehaviour
     [Header("GroundCheck")]
 
     public float groundDrag;
+    public float airDrag;
     public float playerHeight;
     public LayerMask whatisGround;
     bool grounded;
@@ -26,6 +27,7 @@ public class Movement : MonoBehaviour
     private float cameraYOffset = 0.4f;
     private Camera playerCamera;
     float rotationX = 0;
+    private float jumpSpeed = 500f;
 
     private Alteruna.Avatar avatar;
 
@@ -61,18 +63,15 @@ public class Movement : MonoBehaviour
             return;
         }
         grounded = Physics.Raycast(transform.position, Vector3.down, playerHeight * .5f + 0.2f, whatisGround);
-        Debug.Log(grounded);
         if(grounded)
         {
             rb.drag = groundDrag;
         }
         else
         {
-            rb.drag = 5f;
+            rb.drag = airDrag;
         }
-
         Inputs();
-
         if(playerCamera != null)
         {
             rotationX += -Input.GetAxis("Mouse Y") * 2;
@@ -86,6 +85,10 @@ public class Movement : MonoBehaviour
     {
         horizontalInput = Input.GetAxisRaw("Horizontal");
         VerticalInput = Input.GetAxisRaw("Vertical");
+        if(Input.GetKeyDown("space") && grounded == true)
+        {
+            jump();
+        }
     }
 
     private void Move()
@@ -95,6 +98,10 @@ public class Movement : MonoBehaviour
 
         rb.AddForce(moveDirection.normalized * speed * 10f, ForceMode.Force);
 
+    }
+    private void jump()
+    {
+        rb.AddForce(Vector3.up * jumpSpeed);
     }
 }
 
