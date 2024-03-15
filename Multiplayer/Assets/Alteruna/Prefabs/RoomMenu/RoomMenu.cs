@@ -197,7 +197,7 @@ namespace Alteruna
 
 		private void JoinedRoom(Multiplayer multiplayer, Room room, User user)
 		{
-            Panel.gameObject.SetActive(true);
+            Panel.gameObject.SetActive(false);
             StartButton.interactable = false;
 			LeaveButton.interactable = true;
 
