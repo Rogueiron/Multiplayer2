@@ -40,6 +40,7 @@ public class Shooting : MonoBehaviour
             Target target = hit.transform.GetComponent<Target>();
             if(target != null) 
             {
+                Debug.Log("hit");
                 target.takeDamage(damage);
             }
         }
