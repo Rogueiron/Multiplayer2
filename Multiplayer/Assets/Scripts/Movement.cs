@@ -28,6 +28,8 @@ public class Movement : MonoBehaviour
     float rotationX = 0;
 
     private Alteruna.Avatar avatar;
+
+    public GameObject oriantaion;
     // Start is called before the first frame update
     void Start()
     {
@@ -44,6 +46,10 @@ public class Movement : MonoBehaviour
     }
     private void FixedUpdate()
     {
+        if (!avatar.IsMe)
+        {
+            return;
+        }
         Move();
     }
 
@@ -56,7 +62,7 @@ public class Movement : MonoBehaviour
         }
         grounded = Physics.Raycast(transform.position, Vector3.down, playerHeight * .5f + 0.2f, whatisGround);
         Debug.Log(grounded);
-        if (grounded)
+        if(grounded)
         {
             rb.drag = groundDrag;
         }
@@ -85,7 +91,7 @@ public class Movement : MonoBehaviour
     private void Move()
     {
 
-        moveDirection = playerCamera.transform.forward * VerticalInput + playerCamera.transform.right * horizontalInput;
+        moveDirection = oriantaion.transform.forward * VerticalInput + oriantaion.transform.right * horizontalInput;
 
         rb.AddForce(moveDirection.normalized * speed * 10f, ForceMode.Force);
 
