@@ -1,10 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Alteruna;
 
-public class Target : MonoBehaviour
+public class Target : AttributesSync
 {
-    private float health = 50f;
+    [SynchronizableField] private float health = 50f;
 
     public void takeDamage(float amount)
     {
