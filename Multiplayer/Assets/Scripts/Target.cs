@@ -6,6 +6,11 @@ using Alteruna;
 public class Target : AttributesSync
 {
     [SynchronizableField] private float health = 50f;
+    private Spawner spawner;
+    private void Start()
+    {
+        spawner = GameObject.FindGameObjectWithTag("NetworkManager").GetComponent<Spawner>();
+    }
 
     public void takeDamage(float amount)
     {
@@ -17,6 +22,6 @@ public class Target : AttributesSync
     }
     void Die()
     {
-        Destroy(gameObject);
+        spawner.Despawn(gameObject);
     }
 }

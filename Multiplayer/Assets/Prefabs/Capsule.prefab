@@ -230,6 +230,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 716f705cc94e0e9469b7feef8158ea75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Multiplayer: {fileID: 0}
+  _uidString: b72e4a40-45c9-480f-a2dc-2375f4e52386
+  Reliability: 1
+  LocalMethodBehavior: 1
 --- !u!1 &3011368432823475091
 GameObject:
   m_ObjectHideFlags: 0
