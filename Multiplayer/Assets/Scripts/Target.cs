@@ -7,13 +7,6 @@ public class Target : AttributesSync
 {
     private float health = 50f;
     private Spawner spawner;
-
-    private void Start()
-    {
-        spawner = GameObject.FindGameObjectWithTag("NetworkManager").GetComponent<Spawner>();
-        
-    }
-
     public void takeDamage(float amount)
     {
         health -= amount;
@@ -22,9 +15,8 @@ public class Target : AttributesSync
             Die();
         }
     }
-    [SynchronizableMethod]
     void Die()
     {
-        gameObject.SetActive(false);
+        gameObject.transform.localScale = new Vector3(0, 0, 0);
     }
 }
