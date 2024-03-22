@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using Alteruna;
 
-public class Target : AttributesSync
+public class Target : MonoBehaviour
 {
-    [SynchronizableField] private float health = 50f;
+    private float health = 50f;
     private Spawner spawner;
     private void Start()
     {
