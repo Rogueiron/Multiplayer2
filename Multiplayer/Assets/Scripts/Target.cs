@@ -3,13 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using Alteruna;
 
-public class Target : MonoBehaviour
+public class Target : AttributesSync
 {
     private float health = 50f;
     private Spawner spawner;
+
     private void Start()
     {
         spawner = GameObject.FindGameObjectWithTag("NetworkManager").GetComponent<Spawner>();
+        
     }
 
     public void takeDamage(float amount)
@@ -20,8 +22,9 @@ public class Target : MonoBehaviour
             Die();
         }
     }
+    [SynchronizableMethod]
     void Die()
     {
-        spawner.Despawn(gameObject);
+        Destroy(gameObject);
     }
 }
