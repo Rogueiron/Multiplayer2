@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 2160.0432, g: 2263.8167, b: 3286.5435, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1068,7 +1068,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Multiplayer: {fileID: 1322376104}
-  SpawnableObjects: []
+  SpawnableObjects:
+  - {fileID: 238062607281970084, guid: 808da0156a4d1634fb1f061a1d249bf9, type: 3}
   OnObjectSpawn:
     m_PersistentCalls:
       m_Calls: []
