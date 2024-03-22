@@ -25,6 +25,6 @@ public class Target : AttributesSync
     [SynchronizableMethod]
     void Die()
     {
-        Destroy(gameObject);
+        gameObject.SetActive(false);
     }
 }
